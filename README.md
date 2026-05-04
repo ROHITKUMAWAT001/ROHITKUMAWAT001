@@ -47,10 +47,10 @@ const rohit = {
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br/>
       <sub><b>C++</b></sub>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/><br/>
       <sub><b>Java</b></sub>
