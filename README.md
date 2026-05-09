@@ -244,7 +244,7 @@ const rohit = {
 
 ## ◈ Let's Connect
 
-<a href="https://linkedin.com/in/rohit001">
+<a href="https://linkedin.com/in/rohit00">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
